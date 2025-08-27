@@ -1,0 +1,27 @@
+{
+  "name": "figma3-redo-brand",
+  "version": "1.0.0",
+  "description": "Redo Brand Guidelines - A modern brand identity website designed in Figma",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve -l 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LBtakeuti/-figma3.git"
+  },
+  "keywords": [
+    "brand",
+    "guidelines",
+    "figma",
+    "design",
+    "redo"
+  ],
+  "author": "LBtakeuti",
+  "license": "MIT",
+  "homepage": "https://github.com/LBtakeuti/-figma3#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
